@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_mai</string>
+    <string name="home">Home</string>
+    <string name="search">Report</string>
+    <string name="favorite">Contact</string>
+    <string name="account">News</string>
+    <string name="setting">Setting</string>
+
+</resources>
